@@ -38,7 +38,7 @@ public class pruebaCubos {
         System.out.println("Los litros actuales del cubo 2 son " +cubo2.getActuales());
         System.out.println("Los litros actuales del cubo 3 son " +cubo3.getActuales());
         
-        /*cubo1.vuelcaEn(cubo3);
+        cubo1.vuelcaEn(cubo3);
         cubo2.vuelcaEn(cubo3);
         
         System.out.println("Los litros actuales del cubo 1 son " +cubo1.getActuales());
@@ -46,7 +46,7 @@ public class pruebaCubos {
         System.out.println("Los litros actuales del cubo 1 son " +cubo3.getActuales());
         
         
-        */
+        
         cubo2.pinta();
         cubo3.pinta();
     }
